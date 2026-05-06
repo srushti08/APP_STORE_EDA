@@ -32,9 +32,9 @@ The dataset contains information about mobile applications on the Google Play St
 - Removed duplicate records
 - Identified and handled missing values
 - Converted columns like:
-- Reviews → Numeric
-- Installs → Cleaned and converted to integer
-- Price → Converted to float
+  - Reviews → Numeric
+  - Installs → Cleaned and converted to integer
+  - Price → Converted to float
 - Fixed inconsistent data formats
 - Removed invalid/non-numeric entries
 
