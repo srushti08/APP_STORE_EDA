@@ -8,7 +8,7 @@ This project focuses on performing data cleaning, preprocessing, and statistical
 - Perform exploratory data analysis (EDA)
 - Generate statistical summaries for insights
 
-#Dataset Description
+## Dataset Description
 The dataset contains information about mobile applications on the Google Play Store, including:
 
 - App Name
